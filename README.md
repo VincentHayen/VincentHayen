@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VincentHayen
+- 👋 Hi, I’m Vincent "Sharks" Hayen
 - I’m interested in GameDev and Entertainment creation in general
 - I’m currently studying Independent Game Prodution @ DAE HoWest 
 - How to reach me (will be added later)
